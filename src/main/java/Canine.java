@@ -1,5 +1,2 @@
-public abstract class Canine extends Animal {
-    public Canine(String food) {
-        super(food);
-    }
+public interface Canine {
 }

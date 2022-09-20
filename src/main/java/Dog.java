@@ -1,2 +1,2 @@
-public class Dog extends Pet {
+public class Dog extends Pet implements Canine {
 }

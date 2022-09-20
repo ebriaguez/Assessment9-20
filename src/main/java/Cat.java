@@ -1,0 +1,3 @@
+//subclass
+public class Cat{
+}
